@@ -10,7 +10,6 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
 
     TextView textview;
-    int count = 0;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.layout);
 
         textview = findViewById(R.id.txtCount);
-
 
     }
 
@@ -28,9 +26,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onCountClick(View view){
-
-        count++;
-        textview.setText(count+"");
+        int count = Integer.parseInt(textview.getText().toString());
+        textview.setText((count++)+"");
 
     }
 }

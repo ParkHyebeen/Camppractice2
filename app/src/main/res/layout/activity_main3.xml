@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity3">
+
+  <TextView
+      android:id="@+id/textView2"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="아메리카노 (1000원)"
+      tools:layout_editor_absoluteX="63dp"
+      tools:layout_editor_absoluteY="75dp" />
+
+  <EditText
+      android:id="@+id/etAme"
+      android:layout_width="270dp"
+      android:layout_height="37dp"
+      android:background="#E88E8E"
+      android:ems="10"
+      android:inputType="textPersonName"
+      tools:layout_editor_absoluteX="63dp"
+      tools:layout_editor_absoluteY="104dp" />
+
+  <TextView
+      android:id="@+id/textView3"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="카페라떼 (1500원)"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="154dp" />
+
+  <EditText
+      android:id="@+id/etCala"
+      android:layout_width="270dp"
+      android:layout_height="37dp"
+      android:background="#E88E8E"
+      android:ems="10"
+      android:inputType="textPersonName"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="190dp" />
+
+  <TextView
+      android:id="@+id/textView4"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="카페모카 (1700원)"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="240dp" />
+
+  <EditText
+      android:id="@+id/etCamo"
+      android:layout_width="270dp"
+      android:layout_height="37dp"
+      android:background="#E88E8E"
+      android:ems="10"
+      android:inputType="textPersonName"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="277dp" />
+
+  <CheckBox
+      android:id="@+id/checkBox"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="할인카드 있음 (10% 할인)"
+      tools:layout_editor_absoluteX="63dp"
+      tools:layout_editor_absoluteY="327dp" />
+
+
+  <Button
+      android:id="@+id/button"
+      android:layout_width="267dp"
+      android:layout_height="46dp"
+      android:onClick="onBBB"
+      android:text="총 금액 계산"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="395dp" />
+
+
+  <TextView
+      android:id="@+id/txtNum"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="주문개수:"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="472dp" />
+
+  <TextView
+      android:id="@+id/txtDc"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="할인금액:"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="504dp" />
+
+  <TextView
+      android:id="@+id/txtSum"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="결제금액:"
+      tools:layout_editor_absoluteX="66dp"
+      tools:layout_editor_absoluteY="532dp" />
+</LinearLayout>
