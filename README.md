@@ -3,6 +3,7 @@
 
 
 
+
 # Lab2_음료주문앱
 
 처음 화면
@@ -15,4 +16,5 @@
 
 10% 할인 버튼 눌렀을 때 
 
+![image](https://user-images.githubusercontent.com/70693435/124624299-bb701b80-deb7-11eb-8593-459a40d43142.png)
 
