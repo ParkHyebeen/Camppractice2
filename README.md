@@ -2,6 +2,10 @@
 
 처음 화면
 
+![image](https://user-images.githubusercontent.com/70693435/124626108-5a494780-deb9-11eb-9cdb-335f16cf71d0.png)
+
+toast 버튼 눌렀을 때
+![image](https://user-images.githubusercontent.com/70693435/124626185-692ffa00-deb9-11eb-892f-bcf648ca282f.png)
 
 
 
@@ -30,4 +34,5 @@
 ![image](https://user-images.githubusercontent.com/70693435/124625231-97f9a080-deb8-11eb-889b-f76e3dc846a6.png)
 
 나이 메시지 출력
+
 ![image](https://user-images.githubusercontent.com/70693435/124625373-b2cc1500-deb8-11eb-978d-4bce68dbbdbc.png)
