@@ -5,10 +5,16 @@
 ![image](https://user-images.githubusercontent.com/70693435/124626108-5a494780-deb9-11eb-9cdb-335f16cf71d0.png)
 
 toast 버튼 눌렀을 때
+
 ![image](https://user-images.githubusercontent.com/70693435/124626185-692ffa00-deb9-11eb-892f-bcf648ca282f.png)
 
+count 버튼 1번 눌렀을 때
 
+![image](https://user-images.githubusercontent.com/70693435/124627046-2e7a9180-deba-11eb-8865-9fd99d60f9d7.png)
 
+count 버튼 2번 눌렀을 때
+
+![image](https://user-images.githubusercontent.com/70693435/124627084-3803f980-deba-11eb-9b1d-ba79c0e1a32a.png)
 
 
 
